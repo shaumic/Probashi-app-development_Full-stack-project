@@ -1,0 +1,2 @@
+# Probashi-app-development_Full-stack-project
+Probashi is a one-stop solution for all the Bangladeshi students in abroad.   It will initially focus on 4 main features.   -Finding student housing through local kijiji API -Finding part time jobs through indeed, linkedin, prostaff, job shoppe -Finding cheapest grocery shopping -Finding local musolla and mashjid  Our first priority is to build our first prototype with these features. Later we will expand our scope to help immigrants, prospective students and bangladeshi citizens in various parts of the world
